@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" fill="none">
+  <!-- Icon: hexagon with topo contour lines -->
+  <g transform="translate(0, 2)">
+    <!-- Hexagon outline -->
+    <path d="M20 2 L35.32 10 L35.32 26 L20 34 L4.68 26 L4.68 10 Z" stroke="#3d6b4f" stroke-width="1.8" fill="none"/>
+    <!-- Topo lines -->
+    <path d="M10 22 Q14 16 20 18 Q26 20 30 14" stroke="#3d6b4f" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+    <path d="M11 26 Q16 19 20 21 Q24 23 29 18" stroke="#8B7355" stroke-width="1" fill="none" stroke-linecap="round" opacity="0.7"/>
+    <path d="M12 18 Q16 13 20 15 Q24 17 28 11" stroke="#3d6b4f" stroke-width="1" fill="none" stroke-linecap="round" opacity="0.5"/>
+    <!-- Peak marker -->
+    <path d="M18 13 L20 9 L22 13" stroke="#3d6b4f" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- Wordmark, centered on the hexagon (no tagline) -->
+  <text x="44" y="26.5" font-family="'Inter', -apple-system, sans-serif" font-size="17" font-weight="700" fill="#2c3e2d" letter-spacing="0.5">LAND TAKEOFFS</text>
+</svg>

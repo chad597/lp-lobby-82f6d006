@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 240 64" role="img" aria-labelledby="title">
+  <title id="title">pFrame.ai</title>
+  <path d="M19 7h30a8 8 0 0 1 8 8v8h-9v-7a1 1 0 0 0-1-1H21a8 8 0 0 0-1 1v30a1 1 0 0 0 1 1h26a8 8 0 0 0 1-1v-7h9v8a8 8 0 0 1-8 8H19a8 8 0 0 1-8-8V15a8 8 0 0 1 8-8Z" fill="#BF634A" transform="translate(0 0)"/>
+  <circle cx="36" cy="32" r="8" fill="#F8EEE8"/>
+  <circle cx="36" cy="32" r="3" fill="#262522"/>
+  <text x="80" y="41" fill="#2B2320" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="-1.5">pFrame</text>
+  <text x="191" y="41" fill="#6C6055" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="400">.ai</text>
+</svg>
